@@ -1,5 +1,5 @@
 {
-  "name": "kashif-raza-fca",
+  "name": "@kashif-raza/fca",
   "version": "1.0.0",
   "module": "commonjs",
   "types": "src/types/index.d.ts",

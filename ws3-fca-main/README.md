@@ -1,11 +1,11 @@
-# kashif-raza-fca
+# @kashif-raza/fca
 
 Facebook Chat API protected and deployed by **KASHIF Raza**.
 
 ## Usage:
 
 ```js
-const login = require("kashif-raza-fca");
+const login = require("@kashif-raza/fca");
 
 // Example usage
 const fs = require("fs");
@@ -40,7 +40,7 @@ login(credentials, {
     const commandName = args.shift().toLowerCase();
 
     if (commandName === "hello") {
-      api.sendMessageMqtt("Hello! This is kashif-raza-fca package!", event.threadID);
+      api.sendMessageMqtt("Hello! This is @kashif-raza/fca package!", event.threadID);
     }
   });
 });
@@ -49,7 +49,7 @@ login(credentials, {
 ## Installation
 
 ```bash
-npm install kashif-raza-fca
+npm install @kashif-raza/fca
 ```
 
 ## Features
