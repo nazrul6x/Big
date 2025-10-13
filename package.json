@@ -4,7 +4,7 @@
   "module": "commonjs",
   "types": "src/types/index.d.ts",
   "description": "Facebook-chat-api protect and deploy by KASHIF Raza",
-  "main": "module/index.js",
+  "main": "module/index",
   "scripts": {
     "test": "echo wohoi!"
   },
