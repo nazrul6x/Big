@@ -1,6 +1,6 @@
 {
   "name": "fca-nur",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "module": "index",
   "types": "src/types/index.d.ts",
   "description": "Facebook-chat-api protect and deploy by KASHIF Raza",
